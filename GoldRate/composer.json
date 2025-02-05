@@ -1,5 +1,5 @@
 {
-    "name": "Custom/goldrate",
+    "name": "custom/goldrate",
     "description": "A custom Laravel package for gold rate",
     "type": "library",
     "license": "MIT",
